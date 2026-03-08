@@ -1,0 +1,37 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,ZONA DE ACCIÓN
+https://live20.bozztv.com/giatvplayout7/giatv-209634/index.m3u8
+#EXTINF:-1 ,CINE FAMILIA
+https://live20.bozztv.com/giatvplayout7/giatv-209633/pistas-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,TU CINE
+https://stream.900444.xyz/live/peliskids.m3u8
+#EXTINF:-1 ,CINE PLUS
+https://live20.bozztv.com/akamaissh101/ssh101/peliplushd2025/playlist.m3u8
+#EXTINF:-1 ,MEGA CINE
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 ,EXTREMA ACCIÓN
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 ,OPINIONES SOBRE CINE
+https://live20.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
+#EXTINF:-1,NEXXO TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1,MARKA TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/lista de reproducción.m3u8
+#EXTINF:-1,PELÍCULAS WOW
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1 , BAYRESTV
+https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
+#EXTINF:-1,ÓRBITA TV
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+#EXTINF:-1 ,COSMOS
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1, VISIÓN TV
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 ,GEN TV
+https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
+#EXTINF:-1,AURORA MF
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1, NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
